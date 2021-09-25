@@ -29,5 +29,4 @@ for (i in 2:ncol(wcpp))
 }
 
 # Predictions
-predictions
 write.csv(predictions, "C:/Documents/Codes/R/test.csv")
